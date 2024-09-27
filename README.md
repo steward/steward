@@ -7,6 +7,10 @@ A steward ensures the comfort, safety, and satisfaction of passengers and crew t
 
 Make community websites work. 
 
+#### Why I'm here
+
+To raise money for ongoing projects. To learn from my betters. To leave a small legacy.
+
 #### Coding philosophy
 
 Messy code is working code. Every hacky-looking line was put there to solve a real-world problem for an anxious customer.
