@@ -9,7 +9,7 @@ Make community websites work. Usually legacy systems that have customized origin
 
 #### Why I'm here
 
-To raise money for ongoing projects. To learn from my betters. To leave a my work for others to continue when I am gone. Yes, I am old.
+To generate income for software as a service. To learn from my betters. To leave a my work for others to continue when I am gone. Yes, I am old.
 
 #### Coding philosophy
 
