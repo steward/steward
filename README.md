@@ -1,11 +1,11 @@
 
-#### I am the steward of many websites
+#### I am the steward of websites
 
 A steward ensures the comfort, safety, and satisfaction of passengers and crew through a range of hospitality and housekeeping services. 
 
 #### What I do
 
-Make community websites work. 
+Make community websites work. Usually legacy systems that have customized original software beyond recognition.
 
 #### Why I'm here
 
