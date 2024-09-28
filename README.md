@@ -15,7 +15,7 @@ To raise money for ongoing projects. To learn from my betters. To leave a my wor
 
 Messy code is working code. Every hacky-looking line was put there to solve a real-world problem for an anxious customer.
 
-Coders who don't comment are coders who have not yet maintained systems for long periods of time.
+Coders who don't comment are coders who have not yet maintained systems for long periods of time. As in decades.
 
 #### Current tools
 
